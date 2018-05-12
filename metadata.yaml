@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9380'
     url: http://www.gutenberg.org/2009/agents/9380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20554#Nos-Hommes-et-Notre-Histoire--13-Notices-biographiques-accompagn-es-de-reflexions-et-de-souve_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2007-02-10'
 gutenberg_type: Text
